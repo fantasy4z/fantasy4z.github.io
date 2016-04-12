@@ -1,7 +1,7 @@
 {
   "name": "PlayVideo",
   "description": "A simple app to play video",
-  "launch_path": "/index.html",
+  "launch_path": "/playvideo/index.html",
   "icons": {
     "16": "/icons/icon16x16.png",
     "48": "/icons/icon48x48.png",
