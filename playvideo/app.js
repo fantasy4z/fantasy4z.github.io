@@ -40,7 +40,7 @@ var VIDEO_OUT9 = {
 
 var TEST_MSE = false;
 var TEST_SEEK = false;
-var AUTO_START = false;
+var AUTO_START = true;
 var NUM_CHUNKS = 1;
 var targetFile = VIDEO_VP9_NORMAL;
 var mediaElement;
