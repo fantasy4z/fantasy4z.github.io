@@ -1,0 +1,25 @@
+{
+  "name": "Photo Editor",
+  "short_name": "Photo Editor",
+  "start_url":  "http://192.168.0.134:3000/image_processing/view",
+  "fullscreen": true,
+  "theme":"#000000",
+  "default_locale": "en-US",
+  "permissions": {
+    "spatialnavigation-app-manage": {}
+  },
+  "activities": {
+    "edit": {
+      "filters": {
+        "type": ["image/jpeg", "image/png", "image/gif", "image/bmp"]
+       },
+      "disposition": "inline",
+      "returnValue": true,
+      "href": "/image_processing/view/"
+    }
+  },
+  "icons": {
+    "56": "https://fantasy4z.github.io/edge-demo/photo-editor-512.png",
+    "128": "https://fantasy4z.github.io/edge-demo/photo-editor-512.png"
+  }
+}
