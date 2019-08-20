@@ -8,7 +8,7 @@ let defaultConfigs = {
   chrome_executue_path: '/data/chrome-headless/headless_shell',
   chrome_launch_page: 'https://www.google.com/maps/@40.7323581,-73.9736765,4079a,35y,38.59t/data=!3m1!1e3?hl=en&force=webgl',
   chrome_viewport: {
-    width: 393,
+    width: 394,
     height: 680
   },
   chrome: {
