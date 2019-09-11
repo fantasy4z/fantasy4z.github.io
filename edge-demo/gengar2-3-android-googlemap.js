@@ -14,9 +14,13 @@ let defaultConfigs = {
   chrome: {
     cpuOnly: false,
   },
-  serverRtcConfPortRange: {
-    min: 50000,
-    max: 51000,
+  webrtc: {
+    server: {
+      portRange: {
+        min: 50000,
+        max: 51000,
+      },
+    },
   },
   app: {
     webrtc: {
