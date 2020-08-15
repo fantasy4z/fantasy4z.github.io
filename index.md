@@ -2,4 +2,4 @@
 
 Hello World :)
 
-- [Resume](http://fantasy4z.github.io/resume.html)
+- [Resume](https://fantasy4z.github.io/resume.html)
