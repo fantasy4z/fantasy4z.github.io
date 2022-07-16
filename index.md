@@ -2,4 +2,4 @@
 
 Hello World :)
 
-- [Resume](https://fantasy4z.github.io/resume.html)
+- [LinkedIn Profile](https://www.linkedin.com/in/guang-de-lin)
